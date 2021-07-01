@@ -57,10 +57,10 @@ global@^4.4.0:
     min-document "^2.19.0"
     process "^0.11.10"
 
-hinet-hichannel-taiwan-radio@^2.2.2:
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/hinet-hichannel-taiwan-radio/-/hinet-hichannel-taiwan-radio-2.2.2.tgz#fcce67492669f4f1a24d740bfa85d673f10632d9"
-  integrity sha512-DZyJ/XfTk8Y5zEuczObDEixBsWl68ozPuM2sRmG58oNq3/V4UZl9pj7U2acvYGQ0ZHUiWHSoFFzUp4vyC2QUNA==
+hinet-hichannel-taiwan-radio@^2.2.3:
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/hinet-hichannel-taiwan-radio/-/hinet-hichannel-taiwan-radio-2.2.3.tgz#fc5327548dbf39bc220e62726c80d4c313dd3dad"
+  integrity sha512-C3qcbTG7Q5KPg8La8JcSnPlcQMTMOMBhnIaUZ2o7+Rxjch7e4vCRVnWH+qVsQOnnJgwrkbDdU7aHKWZYvbglsA==
   dependencies:
     axios "^0.21.0"
     https-proxy-agent "^5.0.0"
